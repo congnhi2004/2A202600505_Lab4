@@ -1,4 +1,5 @@
 # Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu.
+![[tc1.png]]
 Bạn: Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu.
 
 TravelBuddy đang suy nghĩ...
@@ -7,6 +8,7 @@ TravelBuddy đang suy nghĩ...
 TravelBuddy: Chào bạn! Có rất nhiều điểm đến thú vị ở Việt Nam. Bạn có thể cho mình biết bạn thích đi đâu không? Một số gợi ý phổ biến là Đà Nẵng, Phú Quốc, hay Hồ Chí Minh. Ngoài ra, bạn có ngân sách dự kiến cho chuyến đi này không?
 
 # Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng
+![[tc2.png]]
 Bạn: Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng
 
 TravelBuddy đang suy nghĩ...
@@ -38,6 +40,7 @@ TravelBuddy: Chuyến bay từ Hà Nội đi Đà Nẵng có các lựa chọn n
 Bạn có muốn đặt vé cho chuyến bay nào không? Hoặc cần thêm thông tin gì khác không?
 
 # Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
+![[tc3.png]]
 Bạn: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
 
 TravelBuddy đang suy nghĩ...
@@ -81,6 +84,7 @@ Gợi ý thêm:
 
 
 # Tôi muốn đặt khách sạn
+![[tc4.png]]
 Bạn: Tôi muốn đặt khách sạn
 
 TravelBuddy đang suy nghĩ...
@@ -89,6 +93,7 @@ TravelBuddy đang suy nghĩ...
 TravelBuddy: Bạn đang tìm khách sạn ở đâu? Và bạn có ngân sách tối đa cho mỗi đêm không?
 
 # Giải giúp tôi bài tập lập trình Python về linked list
+![[tc5.png]]
 Bạn: Giải giúp tôi bài tập lập trình Python về linked list
 
 TravelBuddy đang suy nghĩ...

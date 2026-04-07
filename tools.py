@@ -14,10 +14,10 @@ def format_price(price: int) -> str:
 # =========================
 class FlightInput(BaseModel):
     """Input for flight queries."""
-    origin: Literal["Hà Nội", "Hồ Chí Minh"] = Field(
+    origin: Literal["Hà Nội", "Hồ Chí Minh", 'Đà Nẵng', 'Phú Quốc'] = Field(
         description="Departure city or airport code"
     )
-    destination: Literal['Đà Nẵng', 'Phú Quốc', 'Hồ Chí Minh'] = Field(
+    destination: Literal['Đà Nẵng', 'Phú Quốc', 'Hồ Chí Minh', "Hà Nội"] = Field(
         description="Arrival city or airport code"
     )
 

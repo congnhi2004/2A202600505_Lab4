@@ -27,7 +27,7 @@ tools_list = [search_flights, search_hotels, calculate_budget]
 # ===== 4. LLM =====
 llm = ChatOpenAI(
     model="gpt-4o-mini",
-    temperature=0.2  # quan trọng
+    temperature=0.2
 )
 
 llm_with_tools = llm.bind_tools(tools_list)
